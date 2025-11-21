@@ -8,6 +8,13 @@ data/
 /data/
 /data
 
+# MLOps
+mlruns/
+/mlruns/
+/mlruns
+*.db
+*.png
+
 # C extensions
 *.so
 
